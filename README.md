@@ -1,6 +1,6 @@
 # Tech Writing Portfolio - Darja Fokina
 
-This repository collects some of my writing samples for different personas.
+This repository collects some of my writing samples, catered for different personas.
 
 - [End User Guide on how to use warm call transfer feature](Sample%20-%20End%20user%20guide.pdf)
 - [API Documentation for developers](API%20documentation%20-%20API-initiated%20Interaction.png)
